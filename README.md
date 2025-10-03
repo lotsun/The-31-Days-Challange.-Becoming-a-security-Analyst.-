@@ -5,7 +5,9 @@ The primary focus of this week's study is the Open Systems Interconnection (OSI)
 <h1>Objectives</h1>
 1. To provide a detailed overview of the OSI model and its seven layers.<BR>
 2. To illustrate the role of each layer in network security.<BR>
-3. To demonstrate practical applications of the OSI model in security analysis.
+3. To demonstrate practical applications of the OSI model in security analysis.<BR>
+<BR>
+<B>Overview of the OSI Model Layers</B>
 
 
 
