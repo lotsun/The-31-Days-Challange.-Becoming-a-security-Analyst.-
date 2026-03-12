@@ -7,7 +7,7 @@ The primary focus of this week's study is the Open Systems Interconnection (OSI)
 2. To illustrate the role of each layer in network security.<BR>
 3. To demonstrate practical applications of the OSI model in security analysis.
 
-<BR>Overview of the OSI Model Layers
+<BR>Overview of the OSI Model Layers.
 
 Layer 7: Application Layer The application layer is the OSI layer closest to the end user, which means both the user and the application layer interact directly with the software application. This layer provides the interface between the applications used to communicate and the underlying network services.
 
