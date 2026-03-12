@@ -13,7 +13,7 @@ Layer 7: Application Layer The application layer is the OSI layer closest to the
 
 Layer 6: Presentation Layer The presentation layer manages the presentation of data to the application layer, handling data format, encryption, and decryption. It ensures that data is presented in a format that the receiving application can understand.
 
-Layer 5. Session Layer The session layer controls the dialogues (ports and sessions) between computers. It establishes, manages, and terminates connections between applications. Session layer implementations include managing user login and logout procedures
+Layer 5. Session Layer The session layer controls the dialogues (ports and sessions) between computers. It establishes, manages, and terminates connections between applications. Session layer implementations include managing user login and logout procedures.
 
 
 
